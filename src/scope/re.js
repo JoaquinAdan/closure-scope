@@ -24,3 +24,7 @@ const animal = "Dog"; // declara y asigna
 // animal = 'cat'; // reasignar no se puede
 const animal = "Snake";
 console.log(animal);
+
+const vehicles = [];
+vehicles.push("🚗")
+console.log(vehicles);
